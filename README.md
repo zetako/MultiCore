@@ -1,0 +1,2 @@
+# MultiCore
+Multi core homework
